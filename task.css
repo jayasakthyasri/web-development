@@ -1,0 +1,143 @@
+body{
+    background-color: rgba(230, 111, 182, 0.323);
+    margin: 0;
+    padding: 0;
+
+}
+.title{
+    color: rgb(229, 16, 119);
+    border: red;
+    font-size: 30px;
+    margin-left:20px;
+    position: relative;
+}
+
+.question{
+    text-align: left;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 50px;
+    position: relative;
+    top:70px;
+
+}
+.butt{
+    position:relative;
+    font-size:15px;
+    top:100px;
+    left: 500px;
+    color:whitesmoke;
+    background-color:rgb(233, 81, 159);
+}
+.think{
+    float: right;
+    position: absolute;
+    top:70px;
+    right:90px;
+    max-width:650px;
+}
+.line{
+    position:relative;
+    top:350px;
+    left:800px;
+    font-size:30px;
+    z-index: 2;
+    font-style: italic;
+    max-width: 650px;
+}
+.hands{
+    position:absolute;
+    top:500px;
+    left:100px;
+    margin-left:30px;
+    width: 500px;
+    height: 400px;
+    max-width:500px;
+    
+}
+ul{
+    list-style-type: none;
+    position: absolute;
+}
+.features{
+    list-style: none;
+    color: black;
+    text-align: center;
+    display: inline-block;
+    margin-left:120px;
+    margin-top: 270px;
+    font-style: inherit;
+    max-width:650px;
+    z-index: 1;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size:30px;
+}
+.explain{
+    position:relative;
+    top:200px;
+    left:380px;
+    font-size:40px;
+    font-style:normal;
+    text-align: center;
+    color: brown;
+    max-width:650px;
+}
+.steps{
+    position: absolute;
+    top:1150px;
+    width:100px;
+    height: 100px;
+    left:330px;
+}
+.chat{
+    position: absolute;
+    top:1150px;
+    left:730px;
+    width:100px;
+    height: 100px;
+}
+.rewards{
+    position: absolute;
+    top:1150px;
+    left:1090px;
+    width:100px;
+    height:100px;
+}
+ul{
+    list-style-type:none;
+    position:absolute;
+} 
+li{
+    list-style: none;
+    color: black;
+    text-align: center;
+    display:inline-flex;
+    margin-top:500px;
+    margin-left:300px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size:30px;
+}
+.fac{
+        width:15px;
+        height:15px;
+        
+}
+.int{
+    width:15px;
+    height:15px;
+}
+.yo{
+    width:15px;
+    height:15px;
+}
+    
+    
